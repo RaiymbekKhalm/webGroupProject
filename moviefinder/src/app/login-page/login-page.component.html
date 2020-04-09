@@ -4,13 +4,13 @@
             <div class="title">Welcome back!</div>
             <div class="item">
                 <div class="label">E-mail</div>
-                <input type="text">
+                <input type="text" name="email" [(ngModel)]="loginModel.email">
             </div>
             <div class="item">
                 <div class="label">Password</div>
-                <input type="password">
+                <input type="password" name="password" [(ngModel)]="loginModel.password">
             </div>
-            <button>Log in</button>
+            <button (click)="onLogin()">Log in</button>
             <div class="switch" (click)="login = false">Create new account</div>
         </form>
     </div>
@@ -20,17 +20,17 @@
             <div class="title">Join us!</div>
             <div class="item">
                 <div class="label">E-mail</div>
-                <input type="text">
+                <input type="text" name="email" [(ngModel)]="registerModel.email">
             </div>
             <div class="item">
                 <div class="label">Password</div>
-                <input type="password">
+                <input type="password" name="password" [(ngModel)]="registerModel.password">
             </div>
             <div class="item">
                 <div class="label">Confirm password</div>
-                <input type="password">
+                <input type="password" name="password2" [(ngModel)]="registerModel.password2">
             </div>
-            <button>Sing up</button>
+            <button (click)="register()">Sing up</button>
             <div class="switch" (click)="login = true">Already have an account</div>
         </form>
     </div>
