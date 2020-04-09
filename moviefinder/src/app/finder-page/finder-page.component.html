@@ -1,0 +1,15 @@
+<div class="finder">
+    <div class="category-wrapper">
+        <div class="category-list">
+            <div class="category-list_label">Film Genre</div>
+            <div *ngFor="let g of genreList">
+                <div class="category-list_item" routerLink="{{g.name}}" routerLinkActive="active">
+                    {{ g.name }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <router-outlet></router-outlet>
+    </div>
+</div>

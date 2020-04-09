@@ -1,0 +1,19 @@
+.detail {
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+.detail_text {
+    padding: 1rem;
+}
+img {
+    height: 200px;
+}
+.detail_title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.detail_desc {
+    color: #868686;
+    width: 70%;
+}

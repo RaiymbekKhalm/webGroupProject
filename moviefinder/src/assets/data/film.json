@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "genre": "genre1",
+        "name": "filmname1",
+        "image": "assets/img/1.jpg",
+        "description": "Fusce rutrum, felis vitae fringilla ornare, diam arcu posuere tortor, sed luctus enim eros nec magna. Sed ornare elit condimentum nibh condimentum fermentum. ",
+        "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at tincidunt elit. Etiam iaculis mi non sapien convallis molestie. Integer tincidunt, felis suscipit vehicula tempor, velit enim auctor urna, et pulvinar libero ex in libero. Nulla vestibulum, risus eget tincidunt elementum, purus ante vestibulum dolor, in mattis orci tellus a dui. Donec suscipit sem eu maximus vulputate. Integer varius ullamcorper turpis nec tristique. Maecenas vitae malesuada lacus. Nam eu nisi ut velit scelerisque mollis vel sit amet orci. Fusce id nunc nibh. ",
+            "Morbi ipsum massa, fringilla at pretium ac, pretium ac urna. Aenean pellentesque lobortis nisl sed mollis. Mauris pulvinar lobortis turpis, ut maximus metus fermentum sit amet. Mauris iaculis ornare felis, a consequat nibh facilisis quis. Nullam et urna vitae nisl sollicitudin lacinia eget vel quam. Suspendisse lectus felis, lobortis porttitor tristique in, lobortis nec est. Mauris tincidunt sagittis purus, sit amet interdum magna tempor in. Nunc ut tempor quam. Vivamus suscipit elit id urna commodo, quis facilisis sem mollis. Vivamus ligula ipsum, auctor vitae ligula mattis, viverra auctor nunc. Integer semper quis quam non lacinia. ",
+            "Vestibulum sit amet tempus eros, sed convallis ante. Duis consequat magna et purus tempus, ut euismod diam scelerisque. Cras nec nulla non est tempor pulvinar. Aliquam quis magna nisi. Maecenas sed viverra enim. Vivamus blandit, felis eget elementum hendrerit, ex lorem sagittis arcu, ut aliquet dolor magna a ipsum. Praesent eget pellentesque magna, quis ornare turpis. Curabitur auctor ullamcorper nisi, vitae sodales turpis euismod sed. Quisque sit amet odio et nisl feugiat dictum vel in purus. Quisque tincidunt urna ac mauris faucibus ornare. Quisque placerat justo massa, a vestibulum enim bibendum ac. "
+        ]
+    },
+    {
+        "id": "2",
+        "genre": "genre1",
+        "name": "filmname2",
+        "image": "assets/img/1.jpg",
+        "description": "Fusce rutrum, felis vitae fringilla ornare, diam arcu posuere tortor, sed luctus enim eros nec magna. Sed ornare elit condimentum nibh condimentum fermentum. ",
+        "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at tincidunt elit. Etiam iaculis mi non sapien convallis molestie. Integer tincidunt, felis suscipit vehicula tempor, velit enim auctor urna, et pulvinar libero ex in libero. Nulla vestibulum, risus eget tincidunt elementum, purus ante vestibulum dolor, in mattis orci tellus a dui. Donec suscipit sem eu maximus vulputate. Integer varius ullamcorper turpis nec tristique. Maecenas vitae malesuada lacus. Nam eu nisi ut velit scelerisque mollis vel sit amet orci. Fusce id nunc nibh. ",
+            "Morbi ipsum massa, fringilla at pretium ac, pretium ac urna. Aenean pellentesque lobortis nisl sed mollis. Mauris pulvinar lobortis turpis, ut maximus metus fermentum sit amet. Mauris iaculis ornare felis, a consequat nibh facilisis quis. Nullam et urna vitae nisl sollicitudin lacinia eget vel quam. Suspendisse lectus felis, lobortis porttitor tristique in, lobortis nec est. Mauris tincidunt sagittis purus, sit amet interdum magna tempor in. Nunc ut tempor quam. Vivamus suscipit elit id urna commodo, quis facilisis sem mollis. Vivamus ligula ipsum, auctor vitae ligula mattis, viverra auctor nunc. Integer semper quis quam non lacinia. ",
+            "Vestibulum sit amet tempus eros, sed convallis ante. Duis consequat magna et purus tempus, ut euismod diam scelerisque. Cras nec nulla non est tempor pulvinar. Aliquam quis magna nisi. Maecenas sed viverra enim. Vivamus blandit, felis eget elementum hendrerit, ex lorem sagittis arcu, ut aliquet dolor magna a ipsum. Praesent eget pellentesque magna, quis ornare turpis. Curabitur auctor ullamcorper nisi, vitae sodales turpis euismod sed. Quisque sit amet odio et nisl feugiat dictum vel in purus. Quisque tincidunt urna ac mauris faucibus ornare. Quisque placerat justo massa, a vestibulum enim bibendum ac. "
+        ]
+    },
+    {
+        "id": "3",
+        "genre": "genre1",
+        "name": "filmname3",
+        "image": "assets/img/1.jpg",
+        "description": "Fusce rutrum, felis vitae fringilla ornare, diam arcu posuere tortor, sed luctus enim eros nec magna. Sed ornare elit condimentum nibh condimentum fermentum. ",
+        "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at tincidunt elit. Etiam iaculis mi non sapien convallis molestie. Integer tincidunt, felis suscipit vehicula tempor, velit enim auctor urna, et pulvinar libero ex in libero. Nulla vestibulum, risus eget tincidunt elementum, purus ante vestibulum dolor, in mattis orci tellus a dui. Donec suscipit sem eu maximus vulputate. Integer varius ullamcorper turpis nec tristique. Maecenas vitae malesuada lacus. Nam eu nisi ut velit scelerisque mollis vel sit amet orci. Fusce id nunc nibh. ",
+            "Morbi ipsum massa, fringilla at pretium ac, pretium ac urna. Aenean pellentesque lobortis nisl sed mollis. Mauris pulvinar lobortis turpis, ut maximus metus fermentum sit amet. Mauris iaculis ornare felis, a consequat nibh facilisis quis. Nullam et urna vitae nisl sollicitudin lacinia eget vel quam. Suspendisse lectus felis, lobortis porttitor tristique in, lobortis nec est. Mauris tincidunt sagittis purus, sit amet interdum magna tempor in. Nunc ut tempor quam. Vivamus suscipit elit id urna commodo, quis facilisis sem mollis. Vivamus ligula ipsum, auctor vitae ligula mattis, viverra auctor nunc. Integer semper quis quam non lacinia. ",
+            "Vestibulum sit amet tempus eros, sed convallis ante. Duis consequat magna et purus tempus, ut euismod diam scelerisque. Cras nec nulla non est tempor pulvinar. Aliquam quis magna nisi. Maecenas sed viverra enim. Vivamus blandit, felis eget elementum hendrerit, ex lorem sagittis arcu, ut aliquet dolor magna a ipsum. Praesent eget pellentesque magna, quis ornare turpis. Curabitur auctor ullamcorper nisi, vitae sodales turpis euismod sed. Quisque sit amet odio et nisl feugiat dictum vel in purus. Quisque tincidunt urna ac mauris faucibus ornare. Quisque placerat justo massa, a vestibulum enim bibendum ac. "
+        ]
+    },
+    {
+        "id": "4",
+        "genre": "genre2",
+        "name": "filmname4",
+        "image": "assets/img/1.jpg",
+        "description": "Fusce rutrum, felis vitae fringilla ornare, diam arcu posuere tortor, sed luctus enim eros nec magna. Sed ornare elit condimentum nibh condimentum fermentum. ",
+        "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at tincidunt elit. Etiam iaculis mi non sapien convallis molestie. Integer tincidunt, felis suscipit vehicula tempor, velit enim auctor urna, et pulvinar libero ex in libero. Nulla vestibulum, risus eget tincidunt elementum, purus ante vestibulum dolor, in mattis orci tellus a dui. Donec suscipit sem eu maximus vulputate. Integer varius ullamcorper turpis nec tristique. Maecenas vitae malesuada lacus. Nam eu nisi ut velit scelerisque mollis vel sit amet orci. Fusce id nunc nibh. ",
+            "Morbi ipsum massa, fringilla at pretium ac, pretium ac urna. Aenean pellentesque lobortis nisl sed mollis. Mauris pulvinar lobortis turpis, ut maximus metus fermentum sit amet. Mauris iaculis ornare felis, a consequat nibh facilisis quis. Nullam et urna vitae nisl sollicitudin lacinia eget vel quam. Suspendisse lectus felis, lobortis porttitor tristique in, lobortis nec est. Mauris tincidunt sagittis purus, sit amet interdum magna tempor in. Nunc ut tempor quam. Vivamus suscipit elit id urna commodo, quis facilisis sem mollis. Vivamus ligula ipsum, auctor vitae ligula mattis, viverra auctor nunc. Integer semper quis quam non lacinia. ",
+            "Vestibulum sit amet tempus eros, sed convallis ante. Duis consequat magna et purus tempus, ut euismod diam scelerisque. Cras nec nulla non est tempor pulvinar. Aliquam quis magna nisi. Maecenas sed viverra enim. Vivamus blandit, felis eget elementum hendrerit, ex lorem sagittis arcu, ut aliquet dolor magna a ipsum. Praesent eget pellentesque magna, quis ornare turpis. Curabitur auctor ullamcorper nisi, vitae sodales turpis euismod sed. Quisque sit amet odio et nisl feugiat dictum vel in purus. Quisque tincidunt urna ac mauris faucibus ornare. Quisque placerat justo massa, a vestibulum enim bibendum ac. "
+        ]
+    },
+    {
+        "id": "5",
+        "genre": "genre2",
+        "name": "filmname5",
+        "image": "assets/img/1.jpg",
+        "description": "Fusce rutrum, felis vitae fringilla ornare, diam arcu posuere tortor, sed luctus enim eros nec magna. Sed ornare elit condimentum nibh condimentum fermentum. ",
+        "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at tincidunt elit. Etiam iaculis mi non sapien convallis molestie. Integer tincidunt, felis suscipit vehicula tempor, velit enim auctor urna, et pulvinar libero ex in libero. Nulla vestibulum, risus eget tincidunt elementum, purus ante vestibulum dolor, in mattis orci tellus a dui. Donec suscipit sem eu maximus vulputate. Integer varius ullamcorper turpis nec tristique. Maecenas vitae malesuada lacus. Nam eu nisi ut velit scelerisque mollis vel sit amet orci. Fusce id nunc nibh. ",
+            "Morbi ipsum massa, fringilla at pretium ac, pretium ac urna. Aenean pellentesque lobortis nisl sed mollis. Mauris pulvinar lobortis turpis, ut maximus metus fermentum sit amet. Mauris iaculis ornare felis, a consequat nibh facilisis quis. Nullam et urna vitae nisl sollicitudin lacinia eget vel quam. Suspendisse lectus felis, lobortis porttitor tristique in, lobortis nec est. Mauris tincidunt sagittis purus, sit amet interdum magna tempor in. Nunc ut tempor quam. Vivamus suscipit elit id urna commodo, quis facilisis sem mollis. Vivamus ligula ipsum, auctor vitae ligula mattis, viverra auctor nunc. Integer semper quis quam non lacinia. ",
+            "Vestibulum sit amet tempus eros, sed convallis ante. Duis consequat magna et purus tempus, ut euismod diam scelerisque. Cras nec nulla non est tempor pulvinar. Aliquam quis magna nisi. Maecenas sed viverra enim. Vivamus blandit, felis eget elementum hendrerit, ex lorem sagittis arcu, ut aliquet dolor magna a ipsum. Praesent eget pellentesque magna, quis ornare turpis. Curabitur auctor ullamcorper nisi, vitae sodales turpis euismod sed. Quisque sit amet odio et nisl feugiat dictum vel in purus. Quisque tincidunt urna ac mauris faucibus ornare. Quisque placerat justo massa, a vestibulum enim bibendum ac. "
+        ]
+    },
+    {
+        "id": "6",
+        "genre": "genre3",
+        "name": "filmname6",
+        "image": "assets/img/1.jpg",
+        "description": "Fusce rutrum, felis vitae fringilla ornare, diam arcu posuere tortor, sed luctus enim eros nec magna. Sed ornare elit condimentum nibh condimentum fermentum. ",
+        "text": [
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at tincidunt elit. Etiam iaculis mi non sapien convallis molestie. Integer tincidunt, felis suscipit vehicula tempor, velit enim auctor urna, et pulvinar libero ex in libero. Nulla vestibulum, risus eget tincidunt elementum, purus ante vestibulum dolor, in mattis orci tellus a dui. Donec suscipit sem eu maximus vulputate. Integer varius ullamcorper turpis nec tristique. Maecenas vitae malesuada lacus. Nam eu nisi ut velit scelerisque mollis vel sit amet orci. Fusce id nunc nibh. ",
+            "Morbi ipsum massa, fringilla at pretium ac, pretium ac urna. Aenean pellentesque lobortis nisl sed mollis. Mauris pulvinar lobortis turpis, ut maximus metus fermentum sit amet. Mauris iaculis ornare felis, a consequat nibh facilisis quis. Nullam et urna vitae nisl sollicitudin lacinia eget vel quam. Suspendisse lectus felis, lobortis porttitor tristique in, lobortis nec est. Mauris tincidunt sagittis purus, sit amet interdum magna tempor in. Nunc ut tempor quam. Vivamus suscipit elit id urna commodo, quis facilisis sem mollis. Vivamus ligula ipsum, auctor vitae ligula mattis, viverra auctor nunc. Integer semper quis quam non lacinia. ",
+            "Vestibulum sit amet tempus eros, sed convallis ante. Duis consequat magna et purus tempus, ut euismod diam scelerisque. Cras nec nulla non est tempor pulvinar. Aliquam quis magna nisi. Maecenas sed viverra enim. Vivamus blandit, felis eget elementum hendrerit, ex lorem sagittis arcu, ut aliquet dolor magna a ipsum. Praesent eget pellentesque magna, quis ornare turpis. Curabitur auctor ullamcorper nisi, vitae sodales turpis euismod sed. Quisque sit amet odio et nisl feugiat dictum vel in purus. Quisque tincidunt urna ac mauris faucibus ornare. Quisque placerat justo massa, a vestibulum enim bibendum ac. "
+        ]
+    }
+]
