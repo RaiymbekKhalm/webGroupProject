@@ -42,3 +42,19 @@ button:active {
     box-shadow: none;
     transform: scale(0.96);
 }
+@media (max-width: 610px) {
+    .header {
+        padding: 0 1rem;
+        grid-gap: 1rem;
+    } 
+    .header_logo {
+        font-size: 20px;
+        font-weight: bold;
+        display: grid;
+        align-self: center;
+    }
+    .header_tabs {
+        grid-template-columns: auto auto;
+        grid-gap: 5px;
+    }
+}

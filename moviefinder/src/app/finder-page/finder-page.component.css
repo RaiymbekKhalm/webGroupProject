@@ -35,3 +35,12 @@
     display: grid;
     align-items: center;
 }
+@media (max-width: 610px) {
+    .finder {
+        padding: 1rem;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto 1fr;
+        grid-gap: 2rem;
+    }
+}

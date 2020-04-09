@@ -1,1 +1,37 @@
-<p>login-page works!</p>
+<div class="login">
+    <div *ngIf="login == true">
+        <form>
+            <div class="title">Welcome back!</div>
+            <div class="item">
+                <div class="label">E-mail</div>
+                <input type="text">
+            </div>
+            <div class="item">
+                <div class="label">Password</div>
+                <input type="password">
+            </div>
+            <button>Log in</button>
+            <div class="switch" (click)="login = false">Create new account</div>
+        </form>
+    </div>
+
+    <div *ngIf="login == false">
+        <form>
+            <div class="title">Join us!</div>
+            <div class="item">
+                <div class="label">E-mail</div>
+                <input type="text">
+            </div>
+            <div class="item">
+                <div class="label">Password</div>
+                <input type="password">
+            </div>
+            <div class="item">
+                <div class="label">Confirm password</div>
+                <input type="password">
+            </div>
+            <button>Sing up</button>
+            <div class="switch" (click)="login = true">Already have an account</div>
+        </form>
+    </div>
+</div>

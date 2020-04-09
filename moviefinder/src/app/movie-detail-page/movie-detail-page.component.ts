@@ -9,12 +9,14 @@ import { FilmService } from '../film.service';
 })
 export class MovieDetailPageComponent implements OnInit {
   public film
+  public film_details = []
   constructor(private route: ActivatedRoute, private filmService: FilmService) { }
   public id = this.route.snapshot.paramMap.get('movie_id')
   ngOnInit(): void {
     this.filmService.getFilm()
       .subscribe(data => {
         this.film = data.find(o => o.id == this.id)
+        this.film_details = this.film.text
       })
   }
 

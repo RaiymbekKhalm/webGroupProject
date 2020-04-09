@@ -1,1 +1,15 @@
-<p>home-page works!</p>
+<div class="home">
+    <div class="home_header">
+        <div class="home_header_text">
+            <div class="home_header__logo">moviefinder</div>
+            <div class="home_header__text">find your movie here</div>
+        </div>
+        <button routerLink="/find">Let's go and find movie</button>
+    </div>
+    <p>List of popular movies</p>
+    <div class="home_list">
+        <div *ngFor="let f of filmList">
+            <app-movie-card [film]="f"></app-movie-card>
+        </div>
+    </div>
+</div>

@@ -10,6 +10,7 @@ import { LoginPageComponent } from './login-page/login-page.component';
 import { MovieListComponent } from './movie-list/movie-list.component';
 import { MovieCardComponent } from './movie-card/movie-card.component';
 import { MovieDetailPageComponent } from './movie-detail-page/movie-detail-page.component';
+import { AdminPanelPageComponent } from './admin-panel-page/admin-panel-page.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { MovieDetailPageComponent } from './movie-detail-page/movie-detail-page.
     LoginPageComponent,
     MovieListComponent,
     MovieCardComponent,
-    MovieDetailPageComponent
+    MovieDetailPageComponent,
+    AdminPanelPageComponent
   ],
   imports: [
     BrowserModule,
