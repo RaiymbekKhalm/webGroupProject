@@ -1,5 +1,5 @@
 export interface IFilm {
-    id: string,
+    id: number,
     name: string,
     image: string,
     descriprion: string,

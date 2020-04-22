@@ -15,6 +15,8 @@ export class FinderPageComponent implements OnInit {
     this.genreService.getGenres().subscribe(
       data => {
         this.genreList = data
+
+        
         this.router.navigate(['find', this.genreList[0].name])
       }
     )

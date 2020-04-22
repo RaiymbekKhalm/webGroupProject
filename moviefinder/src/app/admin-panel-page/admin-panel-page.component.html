@@ -3,11 +3,11 @@
         <div class="title">Adding new movie</div>
         <div class="item">
             <div class="label">Image</div>
-            <input type="file" name="image" [(ngModel)]="panelModel.image">
+            <input type="text" name="image" [(ngModel)]="panelModel.image">
         </div>
         <div class="item">
             <div class="label">Title</div>
-            <input type="text" name="title" [(ngModel)]="panelModel.title">
+            <input type="text" name="name" [(ngModel)]="panelModel.name">
         </div>
         <div class="item">
             <div class="label">Description</div>
@@ -15,12 +15,15 @@
         </div>
         <div class="item">
             <div class="label">Ganre</div>
-            <input type="text" name="ganre" [(ngModel)]="panelModel.ganre">
+            <input type="text" name="genre" [(ngModel)]="panelModel.genre">
         </div>
         <div class="item">
             <div class="label">Details</div>
-            <textarea name="" id="" cols="30" rows="10" name="details" [(ngModel)]="panelModel.details"></textarea>
+            <textarea name="" id="" cols="30" rows="10" name="text" [(ngModel)]="panelModel.text"></textarea>
         </div>
         <button (click)="onClick()">New movie</button>
     </form>
+    <div *ngIf="toggle" class="toggle">
+        new movie is added
+    </div>
 </div>

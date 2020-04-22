@@ -1,5 +1,7 @@
 export interface IUser {
-    email: String,
+    username: String,
     password: String,
-    password2: String
+    password2: String,
+    token?: string,
+    publisher?: string
 }

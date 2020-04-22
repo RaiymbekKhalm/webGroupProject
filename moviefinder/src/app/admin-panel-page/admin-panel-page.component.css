@@ -38,3 +38,10 @@ button:active {
     font-size: 20px;
     font-weight: bold;
 }
+.toggle {
+    display: grid;
+    padding: 1rem;
+    background: rgb(2, 143, 14);
+    color: #fff;
+    justify-content: center;
+}

@@ -15,7 +15,7 @@ export class MovieListComponent implements OnInit {
     this.route.params.subscribe(param => {
       this.filmService.getFilm()
         .subscribe(data => {
-          this.filmList = data.filter(o => o.genre == param.id)
+          this.filmList = data.filter(o => o.genre.name == param.id)
         })
     })
   }

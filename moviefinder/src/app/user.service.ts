@@ -12,14 +12,14 @@ export class UserService {
       'Content-Type': 'application/json'
     })
   }
-  private url = 'api/'
+  private url = 'http://localhost:8000/api/'
   constructor(private http: HttpClient) { }
 
   Register(user): Observable<IUser> {
-    return this.http.post<IUser>(this.url+'register', user, this.httpheaders)
+    return this.http.post<IUser>(this.url + 'register/', user, this.httpheaders)
   }
 
   Login(user): Observable<IUser> {
-    return this.http.post<IUser>(this.url + 'login', user, this.httpheaders)
+    return this.http.post<IUser>(this.url + 'login/', user, this.httpheaders)
   }
 }
